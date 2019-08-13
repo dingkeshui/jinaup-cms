@@ -1,0 +1,10 @@
+{
+	"self_redirect":false,
+    "id":"login_container", 
+    "appid": "wx0b5fd4637d806aa3", 
+    "scope": "snsapi_login", 
+    "redirect_uri": "http://oauth.jinaup.com/oauth/wx/web/callback/1.0.0",
+    "state": "",
+    "style": "",
+    "href": ""
+}
